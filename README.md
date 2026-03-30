@@ -6,7 +6,7 @@ A complete IoT-based smart system that monitors environmental conditions and con
 
 ## 🚀 Live Website
 
-https://your-username.github.io/smart-street-light-aqi/
+https://avinashsingh539.github.io/smart-street-light-aqi-monitor/
 
 ---
 
@@ -105,7 +105,7 @@ Data Source: https://api.thingspeak.com/channels/3307818/feeds.json
 ### 2. Run Python Script
 
 ```bash
-python thingspeak_uploader.py
+python send_data.py
 ```
 
 ### 3. Open Website
